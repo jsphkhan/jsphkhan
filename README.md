@@ -1,4 +1,4 @@
-![Joseph](https://josephkhan.me/wp-content/uploads/2020/07/poster.png)
+![Joseph](https://josephkhan.me/wp-content/uploads/2020/07/joseph.png)
 
 I am Principal Frontend Engineer and an Author. I am enthusiastic about Web Standards, JavaScript, JAMStack and architecting Cloud applications. 
 
