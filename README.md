@@ -9,7 +9,7 @@ I am Principal Frontend Engineer and an Author. I am enthusiastic about Web Stan
 - 📫 How to reach me: https://josephkhan.me
 - ⚡ Fun fact:
 ```js 
-"11" + 1 = "11"
-"11" - 1 = 10
+"11" + 1 => "111"
+"11" - 1 => 10
 ```
 
