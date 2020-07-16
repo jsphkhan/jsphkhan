@@ -1,4 +1,4 @@
-![Joseph](images/poster.png)
+![Joseph](poster.png)
 
 I am Principal Frontend Engineer and an Author. I am enthusiastic about Web Standards, JavaScript, JAMStack and architecting Cloud applications. 
 
